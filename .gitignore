@@ -1,0 +1,6 @@
+#Archivos Excluidos por el repositorio git
+
+*~
+*.o
+*.class
+
