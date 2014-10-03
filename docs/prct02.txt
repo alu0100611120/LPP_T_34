@@ -1,1 +1,47 @@
 Trabajo en equipo con git
+
+Diferencias entre Compilación e Interpretación
+
+-------------Compilado------------------------
+
+Necesita traducir de un código fuente a un lenguaje objeto.
+ 
+Genera un programa ejecutables.
+ 
+Más rápido que el interprete.
+ 
+Mayor dificultad al detectar errores.
+ 
+Si hay un error se debe corregir y volver a compilar.
+ 
+Si ya genero el archivo objeto se puede ejecutar el programa tantas veces quiera sin volver a compilar.
+ 
+Ejecuta más rápido un programa
+
+---------------Interpretado-----------------------
+
+Toma cada línea de código, la analiza y ejecuta al mismo tiempo.
+ 
+ 
+Más lento que un compilador ya que el interprete siempre está verificando el código.
+ 
+ 
+Ejecutan sus instrucciones sobre una máquina virtual interna.
+ 
+ 
+Traduce el lenguaje de alto nivel a lenguaje máquina sin generar ningun objeto.
+-------------------------------------------------------------------------------
+
+--54--¿Se puede ejecutar directamente?
+Sí, tiene permisos de ejecución para todos los usuarios.
+
+--55--¿Se puede ejecutar directamente?
+No, no tiene permisos de ejecución para ningún tipo de usuario
+
+--56--¿Cual es la diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb? ¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+
+La primera linea del helloWorld.sh, que contiene una referencia al interprete que se debe usar en la ejecución.
+
+
+
+
